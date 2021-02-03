@@ -1,0 +1,96 @@
+.heading1-text{
+    font-family: $heading-font;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 66px;
+    line-height: 75px;
+    color: $heading-color;
+    margin: 0;
+}
+.heading2-text{
+    font-family: $heading-font;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 43px;
+    line-height: 70px;
+    color: $heading-color;
+    margin: 0;
+}
+.heading3-text{
+    font-family: $heading-font;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 33px;
+    line-height: 70px;
+    color:$heading-color;
+    margin: 0;
+    padding: 0;
+}
+
+.custom-nav-link{
+    font-family: $paragraph-font;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: $heading-color;
+}
+
+.paragraph-text{
+    font-family: $paragraph-font;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 25px;
+    color:$paragraph-color;
+    margin: 0;
+    padding: 0;
+}
+.button-text{
+    font-family: $paragraph-font;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: $color-white;
+}
+.link-text{
+    font-family: $paragraph-font;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    color: $link1-color;
+}
+.support-para1{
+    font-family: $paragraph-font;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 52px;
+    color: $color-white;
+}
+.support-para2{
+    font-family: $paragraph-font;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 52px;
+    color: $color-white;
+}
+.footer-link-header{
+    font-family: $paragraph-font;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 52px;
+    text-transform: uppercase;
+    color: $color-white;
+}
+.footer-link-para{
+    font-family: $paragraph-font;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 22px;
+    color: $color-white;
+}
